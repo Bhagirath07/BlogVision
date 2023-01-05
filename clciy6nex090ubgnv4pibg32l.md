@@ -15,9 +15,9 @@
 
 * **A=&gt;B**\[Support, Confidence\]
     
-    * The part before ( **\=&gt;** ) is referred to as if (**Antecedent**).
+    * The part before (**\=&gt;**) is referred to as if (**Antecedent**).
         
-    * The part after ( **\=&gt;** ) is referred to as then (**Consequent**).
+    * The part after (**\=&gt;**) is referred to as then (**Consequent**).
         
     * Where A and B are sets of items in the transaction data, a and B are disjoint sets.
         
