@@ -1,6 +1,6 @@
 # #43 Machine Learning & Data Science Challenge 43
 
-# What is the Mean Median Mode standard deviation for the sample and population?
+# What is the Mean, Median, Mode, and Standard Deviation for the sample and population?
 
 ## Mean:
 
