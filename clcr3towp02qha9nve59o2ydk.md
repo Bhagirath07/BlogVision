@@ -2,7 +2,7 @@
 
 # What is the Mean Median Mode standard deviation for the sample and population?
 
-## Mean
+## Mean:
 
 * **It is an important technique in statistics.**
     
@@ -13,7 +13,7 @@
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673373364767/6629d41c-0c89-4463-b5b1-69370751a7b1.png align="center")
 
-## Mode
+## Mode:
 
 * **The mode is also one of the types for finding the average.**
     
@@ -24,9 +24,9 @@
 * In the study of statistics, the three most common ‘averages’ in statistics are mean, median, and mode.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673373379195/01c2eccb-0afa-4696-a675-0036c7fa6a8d.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673427831857/348e7c3a-628d-4733-b58a-9d3b04175b12.png align="center")
 
-## Median
+## Median:
 
 * **It is also a way of finding the average of a group of data points. It’s the middle number of a set of numbers.**
     
@@ -39,9 +39,9 @@
 * If the group is even, arrange the numbers in order and pick the two middle numbers and add them then divide by 2. It will be the median number of that set.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673373394354/692f6405-8661-44ac-bf50-cfce2967becb.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673427836996/3d03e9b8-4c4a-41e7-acc2-5df3263dc16e.jpeg align="center")
 
-## Standard Deviation (Sigma)
+## Standard Deviation (Sigma):
 
 * **Standard Deviation is a measure of how much your data is spread out in statistics.**
     
