@@ -26,19 +26,17 @@ The formulas return a value between -1 and 1, where:
 
 ### Meaning:
 
-1. A correlation coefficient of 1 means that for every positive increase in one variable, there is a positive increase in a fixed proportion in the other.
+* **A correlation coefficient of 1 means that for every positive increase in one variable, there is a positive increase in a fixed proportion in the other.**
     
 
 * For example, shoe sizes go up in (almost) perfect correlation with foot length.
     
-
-1. A correlation coefficient of -1 means that for every positive increase in one variable, there is a negative decrease of a fixed proportion in the other.
+* **A correlation coefficient of -1 means that for every positive increase in one variable, there is a negative decrease of a fixed proportion in the other.**
     
 
 * For example, the amount of gas in a tank decreases (almost) perfectly in correlation with speed.
     
-
-1. Zero means that for every increase, there isn’t a positive or negative increase. The two just aren’t related.
+* **Zero means that for every increase, there isn’t a positive or negative increase. The two just aren’t related.**
     
 
 ### What is a Negative Correlation?
