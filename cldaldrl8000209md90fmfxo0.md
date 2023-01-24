@@ -1,6 +1,6 @@
 # #70 Machine Learning & Data Science Challenge 70
 
-# What is a Dropout in a Neural network?
+# What is a Dropout in a Neural Network?
 
 **Dropout refers to ignoring units during the training phase of a certain set of neurons which is chosen randomly.**
 
