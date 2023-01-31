@@ -2,7 +2,7 @@
 
 # What is NLP?
 
-Natural language processing (NLP) is the branch of artificial intelligence that helps computers understand, interpret and manipulate human language.
+**Natural language processing (NLP) is the branch of artificial intelligence that helps computers understand, interpret and manipulate human language.**
 
 * NLP draws from many disciplines, including computer science and computational linguistics, to fill the gap between human communication and computer understanding.
     
